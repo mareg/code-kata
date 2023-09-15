@@ -8,6 +8,10 @@ Includes:
 
 Run to install dependencies:
 ```bash
+$ make
+```
+or
+```bash
 $ composer install -n -o
 ```
 
